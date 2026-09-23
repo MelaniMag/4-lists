@@ -10,3 +10,11 @@ html {
     list-style-type: upper-alpha;
 }
 
+.nav {
+    list-style-type: none;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(226, 195, 236);
+    padding: 20px;
+}
